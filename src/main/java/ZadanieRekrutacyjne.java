@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class ZadanieRekrutacyjne {
     public static void main(String[] args) {
+        System.out.println("Podaj liczbę w zł, np. 1,3");
        mainMethod();
     }
 
